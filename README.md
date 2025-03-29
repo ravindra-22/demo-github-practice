@@ -1,2 +1,2 @@
 # demo-github-practice
-trying to learn github
+trying to learn github and making changes.
